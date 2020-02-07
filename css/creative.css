@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #f4623a;
+  --primary: #6f42c1;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -2430,12 +2430,10 @@ fieldset:disabled a.btn {
   border-color: #f4623a;
 }
 
-
-
 .btn-primary:hover {
   color: #fff;
-  background-color: #6610f2;
-  border-color: #6610f2;
+  background-color: #f24516;
+  border-color: #ee3e0d;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -6560,10 +6558,6 @@ button.bg-primary:focus {
   background-color: #ee3e0d !important;
 }
 
-.text-purple {
-  color: #6610f2 !important;
-}
-
 .bg-secondary {
   background-color: #6c757d !important;
 }
@@ -10180,7 +10174,7 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.788);
+  background: rgba(244, 98, 58, 0.9);
   -webkit-transition: opacity 0.25s ease;
   transition: opacity 0.25s ease;
   text-align: center;
